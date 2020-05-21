@@ -1,7 +1,7 @@
 ![Mail Service](https://repository-images.githubusercontent.com/265396670/188ae280-9a14-11ea-905b-c3500aa67537)
 # Mail Service
 
-A NodeJS express mail sending service
+A NodeJS express email sending service
 
 ## Built With
 
